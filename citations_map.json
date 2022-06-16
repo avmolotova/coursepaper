@@ -1,0 +1,210 @@
+﻿{
+	"network": {
+		"items": [
+			{
+				"id": 4,
+				"label": "blackburn j.d. (1996)",
+				"description": "<table><tr><td>Authors:</td><td>blackburn j.d.; scudder g.d.; van wassenhove l.n.</td></tr><tr><td>Title:</td><td>improving speed and productivity of software development: a global survey of software developers</td></tr><tr><td>Source:</td><td>ieee transactions on software engineering, 22(12), 875-885</td></tr><tr><td>Year:</td><td>1996</td></tr></table>",
+				"url": "https://doi.org/10.1109/32.553636",
+				"x": -0.0002,
+				"y": -0.0000,
+				"cluster": 1,
+				"weights": {
+					"Links": 8.0000,
+					"Citations": 99.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Pub. year": 1996.0000,
+					"Citations": 99.0000,
+					"Norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 6,
+				"label": "nguyen-duc a. (2015)",
+				"description": "<table><tr><td>Authors:</td><td>nguyen-duc a.; cruzes d.s.; conradi r.</td></tr><tr><td>Title:</td><td>the impact of global dispersion on coordination, team performance and software quality-a systematic literature review</td></tr><tr><td>Source:</td><td>information and software technology, 57(1), 277-294</td></tr><tr><td>Year:</td><td>2015</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.infsof.2014.06.002",
+				"x": -0.0957,
+				"y": -0.7405,
+				"cluster": 2,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 92.0000,
+					"Norm. citations": 3.7398
+				},
+				"scores": {
+					"Pub. year": 2015.0000,
+					"Citations": 92.0000,
+					"Norm. citations": 3.7398
+				}
+			},
+			{
+				"id": 7,
+				"label": "ruhe g. (2010)",
+				"description": "<table><tr><td>Authors:</td><td>ruhe g.</td></tr><tr><td>Title:</td><td>product release planning: methods, tools and applications</td></tr><tr><td>Source:</td><td>product release planning: methods, tools and applications, 1-323</td></tr><tr><td>Year:</td><td>2010</td></tr></table>",
+				"x": -0.5911,
+				"y": -0.4557,
+				"cluster": 3,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 75.0000,
+					"Norm. citations": 1.7045
+				},
+				"scores": {
+					"Pub. year": 2010.0000,
+					"Citations": 75.0000,
+					"Norm. citations": 1.7045
+				}
+			},
+			{
+				"id": 11,
+				"label": "melo c. (2011)",
+				"description": "<table><tr><td>Authors:</td><td>melo c.; cruzes d.s.; kon f.; conradi r.</td></tr><tr><td>Title:</td><td>agile team perceptions of productivity factors</td></tr><tr><td>Source:</td><td>proceedings - 2011 agile conference, agile 2011, 57-66</td></tr><tr><td>Year:</td><td>2011</td></tr></table>",
+				"url": "https://doi.org/10.1109/agile.2011.35",
+				"x": 0.5917,
+				"y": 0.4560,
+				"cluster": 4,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 52.0000,
+					"Norm. citations": 0.7464
+				},
+				"scores": {
+					"Pub. year": 2011.0000,
+					"Citations": 52.0000,
+					"Norm. citations": 0.7464
+				}
+			},
+			{
+				"id": 21,
+				"label": "deek f.p. (2005)",
+				"description": "<table><tr><td>Authors:</td><td>deek f.p.; mchugh j.a.m.; eljabiris o.m.</td></tr><tr><td>Title:</td><td>strategic software engineering: an interdisciplinary approach</td></tr><tr><td>Source:</td><td>strategic software engineering: an interdisciplinary approach, 1-334</td></tr><tr><td>Year:</td><td>2005</td></tr></table>",
+				"url": "https://doi.org/10.1201/9781420031119",
+				"x": -0.7409,
+				"y": 0.0958,
+				"cluster": 5,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 15.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Pub. year": 2005.0000,
+					"Citations": 15.0000,
+					"Norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 22,
+				"label": "yilmaz m. (2012)",
+				"description": "<table><tr><td>Authors:</td><td>yilmaz m.; o'connor r.</td></tr><tr><td>Title:</td><td>social capital as a determinant factor of software development productivity: an empirical study using structural equation modeling</td></tr><tr><td>Source:</td><td>international journal of human capital and information technology professionals, 3(2), 40-62</td></tr><tr><td>Year:</td><td>2012</td></tr></table>",
+				"url": "https://doi.org/10.4018/jhcitp.2012040104",
+				"x": 0.4562,
+				"y": -0.5911,
+				"cluster": 6,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 14.0000,
+					"Norm. citations": 0.5385
+				},
+				"scores": {
+					"Pub. year": 2012.0000,
+					"Citations": 14.0000,
+					"Norm. citations": 0.5385
+				}
+			},
+			{
+				"id": 26,
+				"label": "pai d.r. (2015)",
+				"description": "<table><tr><td>Authors:</td><td>pai d.r.; subramanian g.h.; pendharkar p.c.</td></tr><tr><td>Title:</td><td>benchmarking software development productivity of cmmi level 5 projects</td></tr><tr><td>Source:</td><td>information technology and management, 16(3), 235-251</td></tr><tr><td>Year:</td><td>2015</td></tr></table>",
+				"url": "https://doi.org/10.1007/s10799-015-0234-4",
+				"x": 0.7403,
+				"y": -0.0956,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 12.0000,
+					"Norm. citations": 0.4878
+				},
+				"scores": {
+					"Pub. year": 2015.0000,
+					"Citations": 12.0000,
+					"Norm. citations": 0.4878
+				}
+			},
+			{
+				"id": 33,
+				"label": "cheikhi l. (2012)",
+				"description": "<table><tr><td>Authors:</td><td>cheikhi l.; al-qutaish r.e.; idri a.</td></tr><tr><td>Title:</td><td>software productivity: harmonization in iso/ieee software engineering standards</td></tr><tr><td>Source:</td><td>journal of software, 7(2), 462-470</td></tr><tr><td>Year:</td><td>2012</td></tr></table>",
+				"url": "https://doi.org/10.4304/jsw.7.2.462-470",
+				"x": -0.4558,
+				"y": 0.5910,
+				"cluster": 7,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 9.0000,
+					"Norm. citations": 0.3462
+				},
+				"scores": {
+					"Pub. year": 2012.0000,
+					"Citations": 9.0000,
+					"Norm. citations": 0.3462
+				}
+			},
+			{
+				"id": 36,
+				"label": "murphy-hill e. (2021)",
+				"description": "<table><tr><td>Authors:</td><td>murphy-hill e.; jaspan c.; sadowski c.; shepherd d.; phillips m.; winter c.; knight a.; smith e.; jorde m.</td></tr><tr><td>Title:</td><td>what predicts software developers' productivity?</td></tr><tr><td>Source:</td><td>ieee transactions on software engineering, 47(3), 582-594</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/10.1109/tse.2019.2900308",
+				"x": 0.0956,
+				"y": 0.7402,
+				"cluster": 8,
+				"weights": {
+					"Links": 1.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 3.3704
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 3.3704
+				}
+			}
+		],
+		"links": [
+			{
+				"source_id": 4,
+				"target_id": 6
+			},
+			{
+				"source_id": 4,
+				"target_id": 7
+			},
+			{
+				"source_id": 4,
+				"target_id": 11
+			},
+			{
+				"source_id": 4,
+				"target_id": 21
+			},
+			{
+				"source_id": 4,
+				"target_id": 22
+			},
+			{
+				"source_id": 4,
+				"target_id": 26
+			},
+			{
+				"source_id": 4,
+				"target_id": 33
+			},
+			{
+				"source_id": 4,
+				"target_id": 36
+			}
+		]
+	}
+}
